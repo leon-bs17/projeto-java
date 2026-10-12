@@ -1,0 +1,45 @@
+SISTEMA DE APLICAÇÃO E CORREÇÃO DE PROVAS
+1 - Criar e cadastrar uma prova
+2 - Executar prova de exemplo
+Opção: 
+================================
+Prova de Programação
+Disciplina: Programação Orientada a Objetos
+Questões: 3 | Valor total: 6.0
+
+--------------------------------
+Questão 1 - Valor: 2.0
+Qual palavra-chave declara uma classe que não pode ser instanciada diretamente?
+A) static
+B) abstract
+C) final
+D) private
+Resposta (Enter para deixar em branco): 
+--------------------------------
+Questão 2 - Valor: 3.0
+Explique o conceito de encapsulamento.
+Responda com suas palavras.
+Resposta (Enter para deixar em branco): 
+--------------------------------
+Questão 3 - Valor: 1.0
+O polimorfismo permite usar referências Questao para diferentes subclasses.
+Responda V (verdadeiro) ou F (falso).
+Resposta (Enter para deixar em branco): 
+================================
+RESULTADO
+================================
+Prova de Programação
+Disciplina: Programação Orientada a Objetos
+
+Questão 1: 2,00 / 2,00
+Resposta: B
+
+Questão 2: 3,00 / 3,00
+Resposta: Proteger dados por métodos.
+
+Questão 3: 1,00 / 1,00
+Resposta: V
+
+NOTA FINAL: 6,00 / 6,00
+================================
+

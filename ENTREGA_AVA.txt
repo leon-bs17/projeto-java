@@ -1,0 +1,24 @@
+TRABALHO N1 - PROGRAMAÇÃO ORIENTADA A OBJETOS
+Sistema de Aplicação e Correção de Provas
+
+IDENTIFICAÇÃO DA DUPLA
+Integrante 1: A preencher
+Matrícula 1: A preencher
+Integrante 2: A preencher
+Matrícula 2: A preencher
+Universidade: A preencher
+Curso e turma: A preencher
+Professor: A preencher
+
+REPOSITÓRIO NO GITHUB
+https://github.com/leon-bs17/projeto-java
+
+O projeto completo também acompanha este arquivo no ZIP.
+Código Java: pasta src/sistemaprovas.
+Explicação dos conceitos de POO: CONCEITOS_POO.md.
+Instruções para compilar e executar: README.md.
+
+No Windows, use executar.bat. No Linux ou macOS, use sh executar.sh.
+É necessário JDK 11 ou superior.
+
+Antes de entregar, preencha os dados dos dois integrantes neste TXT e no README.
