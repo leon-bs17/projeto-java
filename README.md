@@ -4,14 +4,14 @@ Trabalho N1 de Programação Orientada a Objetos, desenvolvido em Java.
 
 ## Identificação da dupla
 
-Preencher antes da entrega:
+Integrantes responsáveis pelo trabalho:
 
 | Informação | Dados |
 | --- | --- |
-| Integrante 1 | A preencher |
-| Matrícula 1 | A preencher |
-| Integrante 2 | A preencher |
-| Matrícula 2 | A preencher |
+| Integrante 1 | Leonardo Barroso de Sousa |
+| Matrícula 1 | 20252116093 |
+| Integrante 2 | Abraão Rodrigues de Lima |
+| Matrícula 2 | 20252115430 |
 | Universidade | A preencher |
 | Curso e turma | A preencher |
 | Professor | A preencher |
@@ -24,7 +24,7 @@ O nome da conta do GitHub não substitui a identificação dos integrantes acima
 
 O ZIP inclui o projeto completo e o arquivo `ENTREGA_AVA.txt` com o link do
 repositório. A explicação dos conceitos está em `CONCEITOS_POO.md`.
-Preencha a identificação antes de enviar. Confira os formatos aceitos no AVA.
+Confira os demais dados acadêmicos antes de enviar. Confira os formatos aceitos no AVA.
 
 
 ## Executar

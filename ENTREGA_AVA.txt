@@ -2,10 +2,10 @@ TRABALHO N1 - PROGRAMAÇÃO ORIENTADA A OBJETOS
 Sistema de Aplicação e Correção de Provas
 
 IDENTIFICAÇÃO DA DUPLA
-Integrante 1: A preencher
-Matrícula 1: A preencher
-Integrante 2: A preencher
-Matrícula 2: A preencher
+Integrante 1: Leonardo Barroso de Sousa
+Matrícula 1: 20252116093
+Integrante 2: Abraão Rodrigues de Lima
+Matrícula 2: 20252115430
 Universidade: A preencher
 Curso e turma: A preencher
 Professor: A preencher
@@ -21,4 +21,4 @@ Instruções para compilar e executar: README.md.
 No Windows, use executar.bat. No Linux ou macOS, use sh executar.sh.
 É necessário JDK 11 ou superior.
 
-Antes de entregar, preencha os dados dos dois integrantes neste TXT e no README.
+Antes de entregar, confira os demais dados acadêmicos neste TXT e no README.
