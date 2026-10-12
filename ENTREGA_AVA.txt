@@ -6,9 +6,9 @@ Integrante 1: Leonardo Barroso de Sousa
 Matrícula 1: 20252116093
 Integrante 2: Abraão Rodrigues de Lima
 Matrícula 2: 20252115430
-Universidade: A preencher
-Curso e turma: A preencher
-Professor: A preencher
+Universidade: Centro Universitário Ateneu
+Curso e turma: Análise e Desenvolvimento de Sistemas - ADS - 3º Período
+Professor: Leandro da Silva Taddeo
 
 REPOSITÓRIO NO GITHUB
 https://github.com/leon-bs17/projeto-java
@@ -21,4 +21,4 @@ Instruções para compilar e executar: README.md.
 No Windows, use executar.bat. No Linux ou macOS, use sh executar.sh.
 É necessário JDK 11 ou superior.
 
-Antes de entregar, confira os demais dados acadêmicos neste TXT e no README.
+A identificação da dupla e os dados acadêmicos constam neste TXT e no README.

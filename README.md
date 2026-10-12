@@ -12,9 +12,9 @@ Integrantes responsáveis pelo trabalho:
 | Matrícula 1 | 20252116093 |
 | Integrante 2 | Abraão Rodrigues de Lima |
 | Matrícula 2 | 20252115430 |
-| Universidade | A preencher |
-| Curso e turma | A preencher |
-| Professor | A preencher |
+| Universidade | Centro Universitário Ateneu |
+| Curso e turma | Análise e Desenvolvimento de Sistemas - ADS - 3º Período |
+| Professor | Leandro da Silva Taddeo |
 
 Repositório: https://github.com/leon-bs17/projeto-java
 
@@ -24,7 +24,7 @@ O nome da conta do GitHub não substitui a identificação dos integrantes acima
 
 O ZIP inclui o projeto completo e o arquivo `ENTREGA_AVA.txt` com o link do
 repositório. A explicação dos conceitos está em `CONCEITOS_POO.md`.
-Confira os demais dados acadêmicos antes de enviar. Confira os formatos aceitos no AVA.
+A identificação da dupla e os dados acadêmicos constam acima. Confira os formatos aceitos no AVA.
 
 
 ## Executar
